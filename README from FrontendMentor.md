@@ -18,6 +18,7 @@ In this project, I implemented various front-end techniques:
 
 - **Flexbox**: Utilized flexbox to create a responsive layout that adjusts to the content's size and screen space.
 - **Hover Effects**: Added interactivity to the card. For instance, the eye icon appears over the image on hover using the `::before` pseudo-element, demonstrating an understanding of complex CSS selectors.
+- **Animations**: Implemented subtle animations, such as rotating icons and color changes during the active state, to enhance user engagement and explore more advanced CSS techniques.
 - **CSS Custom Properties**: Used CSS variables for color and font sizes, making the design more maintainable and the CSS reusable.
 
 ## Learning Outcomes
